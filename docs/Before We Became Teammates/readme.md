@@ -18,6 +18,8 @@ Every chapter is based on real conversations and real development.
 
 ## Chapters
 
-- [Chapter 1 – Before We Knew Each Other](Chapter%201%20—%20Before%20We%20Knew%20Each%20Other.md)
-- Chapter 2 – The First Click *(Coming Soon)*
-- Chapter 3 – The First Awkward Test *(Coming Soon)*
+- [Chapter 1 – Before We Knew Each Other](01-before-we-knew-each-other.md.MD)
+
+- [Chapter 2 – The First Click](02-The%20First%20Click)
+
+- Chapter 3 – The First Awkward Test **(Coming Soon)**
