@@ -1,4 +1,4 @@
-# Chapter 6 Learning How You Think
+# Chapter 6: Learning How You Think
 
 After we built something together,  
 I started to observe.
